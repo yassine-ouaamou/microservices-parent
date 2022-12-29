@@ -1,0 +1,6 @@
+com\yassine\inventoryservice\controller\InventoryController.class
+com\yassine\inventoryservice\InventoryServiceApplication.class
+com\yassine\inventoryservice\repository\InventoryRepository.class
+com\yassine\inventoryservice\service\InventoryService.class
+com\yassine\inventoryservice\model\Inventory.class
+com\yassine\inventoryservice\model\Inventory$InventoryBuilder.class

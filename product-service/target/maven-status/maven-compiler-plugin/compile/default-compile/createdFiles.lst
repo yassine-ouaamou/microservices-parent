@@ -1,0 +1,10 @@
+com\yassine\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\yassine\productservice\dto\ProductResponse.class
+com\yassine\productservice\ProductServiceApplication.class
+com\yassine\productservice\repository\ProductRepository.class
+com\yassine\productservice\dto\ProductRequest.class
+com\yassine\productservice\model\Product$ProductBuilder.class
+com\yassine\productservice\model\Product.class
+com\yassine\productservice\controller\ProductController.class
+com\yassine\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\yassine\productservice\service\ProductService.class

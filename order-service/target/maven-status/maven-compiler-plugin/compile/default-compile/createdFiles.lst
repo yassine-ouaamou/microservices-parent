@@ -1,0 +1,10 @@
+com\yassine\orderservice\dto\OrderLineItemsDto.class
+com\yassine\orderservice\model\OrderLineItems.class
+com\yassine\orderservice\repository\OrderRepository.class
+com\yassine\orderservice\controller\OrderController.class
+com\yassine\orderservice\model\Order.class
+com\yassine\orderservice\dto\OrderRequest.class
+com\yassine\orderservice\OrderServiceApplication.class
+com\yassine\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\yassine\orderservice\model\Order$OrderBuilder.class
+com\yassine\orderservice\service\OrderService.class
