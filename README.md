@@ -13,4 +13,6 @@ MySQL
 
 Docker
 
-Microservices, API Gateway, load balancing, service discovery
+Resilience4J (CircuitBreaker, Timelimit, Retry)
+
+Microservices, API Gateway, load balancing, service discovery, Auth, Circuit Breaker
