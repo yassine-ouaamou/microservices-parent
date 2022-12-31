@@ -3,7 +3,7 @@ Java 17
 
 SpringBoot 2
 
-Spring Cloud (Netflix, Gateway)
+Spring Cloud (Netflix, Gateway, Sleuth)
 
 Netflix Eureka 
 
@@ -15,4 +15,6 @@ Docker
 
 Resilience4J (CircuitBreaker, Timelimit, Retry)
 
-Microservices, API Gateway, load balancing, service discovery, Auth, Circuit Breaker
+Zipkin
+
+Microservices, API Gateway, load balancing, service discovery, Auth, Circuit Breaker, Ditributed tracing
